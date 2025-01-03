@@ -1,0 +1,6 @@
+CODESOFT-PYTHON DEVELOPER INTERN
+TASK:05-CONTACT BOOK
+
+The Contact Management System, built with Python and SQLite3, features key modules for seamless operations. It includes add_contact()for adding new contacts, **view_contacts()** for listing all saved contacts, search_contact() for locating contacts via name or phone, update_contact() for modifying details with case-insensitive matching, and delete_contact()
+
+Video Link: https://drive.google.com/file/d/1XdW5BgOrAqVftq8ZULeDWUcsKiEc_qmy/view?usp=sharing
